@@ -1,0 +1,16 @@
+h1 {
+    font-size: 5em;
+}
+
+#profile_pic {
+    height: 300px;
+}
+
+.social-icon {
+    height: 50px;
+}
+
+a {
+    color: cadetblue;
+    text-decoration: none;
+}
